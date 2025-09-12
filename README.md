@@ -76,7 +76,7 @@
 ## 🌐 Connect with Me  
 - 📧 Email: [vaishuvaishnavibonthu@gmail.com](mailto:vaishuvaishnavibonthu@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/vaishnavi-bonthu](https://linkedin.com/in/vaishnavi-bonthu)  
-- 💻 GitHub: [VaishnaviBonthu005](https://github.com/VaishnaviBonthu005)  
+- 💻 GitHub: [VaishnaviBonthu](https://github.com/VaishnaviBonthu)  
 - 🧑‍💻 LeetCode: [VaishnaviBonthu005](https://leetcode.com/u/VaishnaviBonthu005/)  
 - 🏆 Credly: [My Badges](https://www.credly.com/users/vaishnavi-bonthu)  
 - ☁️ Salesforce Trailblazer: [Profile](https://www.salesforce.com/trailblazer/vaishnavi-bonthu)  
@@ -85,9 +85,9 @@
 
 ## 📊 GitHub Stats  
 
-![Vaishnavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=VaishnaviBonthu005&show_icons=true&theme=radical)  
+![Vaishnavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=VaishnaviBonthu&show_icons=true&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviBonthu005&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviBonthu&layout=compact&theme=radical)  
 
 ---
 
